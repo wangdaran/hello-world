@@ -1,2 +1,8 @@
-### 测试
-<img src="rect1.svg" alt="测试"/>
+**此处是一个svg图片**：
+
+![svg图片](images/rect.svg)
+
+<img src="images/rect.svg" alt="svg图片"/>
+
+
+
